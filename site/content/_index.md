@@ -1,7 +1,7 @@
 ---
 title: InternetWeek 2019 BoF開催！
 subtitle: '11月28日(木) 19:00～20:30「インターネットにおける自由とデジタル主権について語るBoF」開催のお知らせ'
-image: /img/home-jumbotron.jpg
+image: /img/iw2019_bg2.png
 blurb:
   heading: BoF概要
   text: >
